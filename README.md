@@ -30,7 +30,7 @@ Hardware | Model
 ![bios](https://i.imgur.com/RmYixFt.png) | Aptio's V v4.50 (by American Megatrends (AMI)/AsRock)
 ![processor](https://i.imgur.com/BzXF1mf.png) | Intel Core i5 (8th Gen) 8500 6 Cores/Threads@3Ghz
 ![igpu](https://i.imgur.com/HS92HLo.png)| UHD 630 Graphics 1,2GB VRAM @1,2GHz
-![dgpu](https://i.imgur.com/7TZmF2e.png) | Nvidia/Asus GT730 1GB VRAM@902MHz (Officially supported until MacOS High Sierra)
+![dgpu](https://i.imgur.com/nUQquVP.png) | Nvidia/Asus GT730 1GB VRAM@902MHz (Officially supported until MacOS High Sierra)
 ![audio](https://i.imgur.com/A7RRuUn.png) | ALC892 (in-build)
 Ethernet | Intel Ethernet I219-V
 ![ddr4](https://i.imgur.com/5MAnSyf.png) | Kingston HyperX Fury 8GB(x1) DDR4@3200Mhz
