@@ -3,6 +3,7 @@
 [OpenCore Legacy Patcher]: https://github.com/dortania/OpenCore-Legacy-Patcher/releases
 
 ![Screenshot](https://i.imgur.com/AcR3B6S.png)
+*The screenshot is a conceptual example, it may not match the final result.*
 
 
 Hardware | Model
@@ -27,7 +28,7 @@ Ethernet | Intel Ethernet I219-V
 
 - System Boot ✅
 
-- USB Ports (All ports are 2.0)✅
+- USB Ports ✅
 
 - Screen ✅ (1336x768, 1080x1920)
 
