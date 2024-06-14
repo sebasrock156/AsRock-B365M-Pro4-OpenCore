@@ -1,9 +1,9 @@
-# AsRock B365M Pro4 Opencore (MacOS Monterey 12.x.x)
+# AsRock B365M Pro4 Opencore (MacOS Ventura 13.0 - 13.4)
 
 [OpenCore Legacy Patcher]: https://github.com/dortania/OpenCore-Legacy-Patcher/releases
 
-![Screenshot](https://i.imgur.com/AcR3B6S.png)
-*The screenshot is a conceptual example, it may not match the final result.*
+![Screenshot](https://i.imgur.com/InFhOen.png)
+(*The screenshot is a conceptual example, it may not match the final result.*)
 
 
 Hardware | Model
