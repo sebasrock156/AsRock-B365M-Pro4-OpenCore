@@ -4,7 +4,9 @@
 [![Ventura](https://img.shields.io/badge/VenturaHackintosh-in_development-orange.svg)](https://github.com/sebasrock156/AsRock-B365M-Pro4-OpenCore/tree/Ventura)
 
 > **⚠ ADVICE ⚠: In this case, this EFI was made for a customer, I haven't the Motherboard in home.**
+---
 
+![MoBo](https://i.imgur.com/qe1qGSU.png)
 
 I'm bringing another OpenCore EFI, now for this motherboard for 8th/9th Gen of Intel processors, for more information, click on "More info of **MacOS Version** below:
 
